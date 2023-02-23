@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeojuyeong&layout=compact)](https://github.com/yeojuyeong/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojuyeong)](https://github.com/yeojuyeong/github-readme-stats)
 <!--
 **yeojuyeong/yeojuyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
